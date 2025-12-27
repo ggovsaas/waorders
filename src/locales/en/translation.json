@@ -1,0 +1,279 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "continue": "Continue",
+    "skip": "Skip",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "viewAll": "View all",
+    "learnMore": "Learn more",
+    "getStarted": "Get Started",
+    "signUp": "Sign Up",
+    "logIn": "Log In",
+    "logOut": "Log Out"
+  },
+  
+  "landing": {
+    "hero": {
+      "badge": "Now with AI-powered multi-language support",
+      "headline": "The Fastest Way to Sell on WhatsApp",
+      "subheadline": "Turn customer chats into traceable, multi-lingual, pre-paid orders. No more lost sales. No more manual data entry.",
+      "ctaPrimary": "Start Selling Free",
+      "ctaSecondary": "Watch Demo",
+      "trustNoCreditCard": "No credit card required",
+      "trustFreeTrial": "14-day free trial",
+      "trustCancelAnytime": "Cancel anytime"
+    },
+    "features": {
+      "title": "Everything you need to sell more",
+      "subtitle": "Powerful features that turn WhatsApp into your #1 sales channel",
+      "multiLanguage": {
+        "title": "Multi-Language Support",
+        "description": "Auto-translate product descriptions to 5 languages. Reach customers worldwide without hiring translators.",
+        "highlight": "EN • ES • PT • DE • NL"
+      },
+      "orderLinks": {
+        "title": "Smart Order Links",
+        "description": "Generate shareable order links that work anywhere. Track every click, view, and conversion.",
+        "highlight": "One-click ordering"
+      },
+      "payments": {
+        "title": "Integrated Payments",
+        "description": "Accept card payments, bank transfers, and mobile money. Get paid before you ship.",
+        "highlight": "10+ payment methods"
+      },
+      "whatsapp": {
+        "title": "WhatsApp-First",
+        "description": "Turn your WhatsApp into a sales machine. Orders flow directly to your chat, beautifully formatted.",
+        "highlight": "2B+ users reached"
+      }
+    },
+    "painPoints": {
+      "title": "Sound familiar?",
+      "subtitle": "We built waorders to solve the problems we faced selling on WhatsApp"
+    },
+    "roi": {
+      "badge": "Average merchant savings",
+      "hoursSaved": "Hours saved per week",
+      "monthlySavings": "Monthly savings",
+      "description": "Stop losing orders to chat chaos. Merchants using waorders report 3x faster order processing and significantly higher conversion rates.",
+      "cta": "Calculate Your Savings"
+    },
+    "industries": {
+      "title": "Built for every business",
+      "subtitle": "Trusted by thousands of merchants across all industries"
+    },
+    "testimonials": {
+      "title": "Loved by merchants worldwide",
+      "subtitle": "Join thousands of businesses already growing with waorders"
+    },
+    "finalCta": {
+      "title": "Ready to 10x your WhatsApp sales?",
+      "subtitle": "Join thousands of merchants who've transformed their WhatsApp into a 24/7 sales machine.",
+      "button": "Start Selling Free →",
+      "note": "Free forever for small stores. No credit card required."
+    }
+  },
+  
+  "nav": {
+    "store": "Store",
+    "openStore": "Open Store",
+    "changeStore": "Change Store",
+    "createNewStore": "Create New Store",
+    "management": "Management",
+    "summary": "Summary",
+    "products": "Products",
+    "allProducts": "All Products",
+    "categories": "Categories",
+    "discounts": "Discounts",
+    "customers": "Customers",
+    "chats": "Chats",
+    "inbox": "Inbox",
+    "broadcasts": "Broadcasts",
+    "chatbot": "Chatbot",
+    "analytics": "Analytics",
+    "settings": "Settings",
+    "salesChannels": "Sales Channels",
+    "website": "Website",
+    "storefront": "Storefront",
+    "checkout": "Checkout",
+    "appearance": "Appearance",
+    "menu": "Menu",
+    "pages": "Pages",
+    "reviews": "Reviews",
+    "whatsapp": "WhatsApp",
+    "instagram": "Instagram",
+    "google": "Google",
+    "pos": "Point of Sale",
+    "tableBooking": "Table Booking",
+    "upgradeToPro": "Upgrade to Pro",
+    "upgradeDescription": "Unlock custom domains, advanced analytics, and more.",
+    "upgradeNow": "Upgrade Now",
+    "helpSupport": "Help & Support"
+  },
+  
+  "dashboard": {
+    "welcome": "Welcome back!",
+    "welcomeSubtitle": "Here's what's happening with your store today.",
+    "addProduct": "+ Add Product",
+    "quickActions": "Quick Actions",
+    "recentOrders": "Recent Orders",
+    "storeActivity": "Store Activity",
+    "noOrdersYet": "No orders yet",
+    "noOrdersDescription": "When you receive orders, they'll appear here.",
+    "noActivityYet": "No activity yet",
+    "noActivityDescription": "Share your store to start getting visitors!",
+    "gettingStarted": "Getting Started",
+    "stats": {
+      "totalOrders": "Total Orders",
+      "revenue": "Revenue",
+      "customers": "Customers",
+      "products": "Products"
+    },
+    "tasks": {
+      "addFirstProduct": "Add your first product",
+      "setupDelivery": "Set up delivery methods",
+      "configurePayments": "Configure payment options",
+      "shareStore": "Share your store"
+    }
+  },
+  
+  "products": {
+    "title": "Products",
+    "subtitle": "Manage your product catalog",
+    "addProduct": "+ Add Product",
+    "searchProducts": "Search products...",
+    "allCategories": "All Categories",
+    "newestFirst": "Newest First",
+    "oldestFirst": "Oldest First",
+    "priceHighToLow": "Price: High to Low",
+    "priceLowToHigh": "Price: Low to High",
+    "noProducts": "No products yet",
+    "noProductsDescription": "Add your first product to start selling. You can add products manually or import them from a spreadsheet.",
+    "importProducts": "Import Products",
+    "proTips": "Pro Tips",
+    "tip1": "Use high-quality images to increase sales",
+    "tip2": "Add detailed descriptions with AI assistance",
+    "tip3": "Set up categories to help customers find products"
+  },
+  
+  "addProduct": {
+    "title": "Add New Product",
+    "subtitle": "Create a product with AI-powered multi-language descriptions",
+    "languageSupport": "Supports",
+    "productName": "Product Name",
+    "productNamePlaceholder": "e.g., Lavender Soap",
+    "price": "Price",
+    "keyFeatures": "Key Features",
+    "keyFeaturesHint": "one per line",
+    "keyFeaturesDescription": "Enter product features that will help the AI generate better descriptions",
+    "generateAllLanguages": "Generate All Languages (AI)",
+    "generatesTranslations": "Generates EN + 4 translations",
+    "enterProductNameFirst": "Enter product name first",
+    "productDescription": "Product Description",
+    "viewEdit": "View/Edit",
+    "primaryLanguageNote": "Primary language (required). Other translations are optional.",
+    "translationNote": "translation. Will use English if left empty.",
+    "saveProduct": "Save Product",
+    "savingProduct": "Saving Product...",
+    "backToProducts": "Back to Products",
+    "goToDashboard": "Go to Dashboard",
+    "productsSavedNote": "Products will be visible in your store once saved",
+    "descriptionsStoredNote": "Descriptions stored in 5 languages",
+    "generatingEnglish": "Generating English...",
+    "translating": "Translating...",
+    "productSavedSuccess": "Product saved successfully with {{count}} language(s)!"
+  },
+  
+  "channels": {
+    "instagram": {
+      "title": "Instagram Shopping",
+      "subtitle": "Connect your Instagram for seamless social commerce",
+      "description": "Turn your Instagram into a storefront. Tag products in posts and stories, manage DMs, and track conversions.",
+      "features": {
+        "shoppingTags": "Product tags in posts & stories",
+        "dmIntegration": "Direct message order management",
+        "analytics": "Instagram-specific analytics",
+        "sync": "Auto-sync product catalog"
+      },
+      "cta": "Connect Instagram",
+      "comingSoon": "Instagram integration coming soon!"
+    },
+    "google": {
+      "title": "Google Shopping",
+      "subtitle": "Get found on Google Search and Shopping",
+      "description": "List your products on Google Merchant Center. Appear in Google Shopping results and drive traffic to your store.",
+      "features": {
+        "merchantCenter": "Google Merchant Center sync",
+        "freeListings": "Free product listings",
+        "shoppingAds": "Shopping ad campaigns",
+        "analytics": "Performance tracking"
+      },
+      "cta": "Connect Google",
+      "comingSoon": "Google integration coming soon!"
+    },
+    "pos": {
+      "title": "Point of Sale",
+      "subtitle": "Accept payments in person",
+      "description": "Perfect for physical stores, pop-ups, and markets. Accept card payments face-to-face with our mobile POS solution.",
+      "features": {
+        "mobilePayments": "Accept cards on your phone",
+        "inventorySync": "Real-time inventory sync",
+        "receipts": "Digital receipts via WhatsApp",
+        "offline": "Works offline"
+      },
+      "cta": "Get POS Terminal",
+      "comingSoon": "POS feature coming soon!",
+      "beta": "BETA"
+    }
+  },
+  
+  "onboarding": {
+    "step1": {
+      "title": "What type of business do you have?",
+      "subtitle": "This helps us customize your store experience",
+      "note": "Don't worry, you can change this later in settings"
+    },
+    "step2": {
+      "title": "What's your goal?",
+      "subtitle": "Select all that apply to your business",
+      "note": "We'll personalize your dashboard based on your goals"
+    },
+    "step3": {
+      "title": "Choose your plan",
+      "subtitle": "Start free, upgrade anytime. No credit card required."
+    },
+    "step4": {
+      "title": "Create your store",
+      "subtitle": "Set up your store in seconds"
+    },
+    "step11": {
+      "title": "You're all set!",
+      "subtitle": "Your store is ready",
+      "shareTitle": "Share your store with the world",
+      "shareWhatsApp": "Share on WhatsApp",
+      "goToDashboard": "Go to Dashboard →",
+      "customizeNote": "You can always customize your store from the dashboard"
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

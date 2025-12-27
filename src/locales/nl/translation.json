@@ -1,0 +1,279 @@
+{
+  "common": {
+    "loading": "Laden...",
+    "save": "Opslaan",
+    "cancel": "Annuleren",
+    "delete": "Verwijderen",
+    "edit": "Bewerken",
+    "back": "Terug",
+    "next": "Volgende",
+    "continue": "Doorgaan",
+    "skip": "Overslaan",
+    "search": "Zoeken",
+    "filter": "Filteren",
+    "sort": "Sorteren",
+    "viewAll": "Alles bekijken",
+    "learnMore": "Meer informatie",
+    "getStarted": "Aan de slag",
+    "signUp": "Registreren",
+    "logIn": "Inloggen",
+    "logOut": "Uitloggen"
+  },
+  
+  "landing": {
+    "hero": {
+      "badge": "Nu met AI-aangedreven meertalige ondersteuning",
+      "headline": "De Snelste Manier om te Verkopen op WhatsApp",
+      "subheadline": "Zet klantgesprekken om in traceerbare, meertalige, vooruitbetaalde bestellingen. Geen verloren verkopen meer. Geen handmatige gegevensinvoer meer.",
+      "ctaPrimary": "Gratis Beginnen met Verkopen",
+      "ctaSecondary": "Demo Bekijken",
+      "trustNoCreditCard": "Geen creditcard nodig",
+      "trustFreeTrial": "14 dagen gratis proberen",
+      "trustCancelAnytime": "Op elk moment opzeggen"
+    },
+    "features": {
+      "title": "Alles wat je nodig hebt om meer te verkopen",
+      "subtitle": "Krachtige functies die WhatsApp transformeren tot je #1 verkoopkanaal",
+      "multiLanguage": {
+        "title": "Meertalige Ondersteuning",
+        "description": "Vertaal productbeschrijvingen automatisch naar 5 talen. Bereik klanten wereldwijd zonder vertalers in te huren.",
+        "highlight": "EN • ES • PT • DE • NL"
+      },
+      "orderLinks": {
+        "title": "Slimme Bestelkoppelingen",
+        "description": "Genereer deelbare bestelkoppelingen die overal werken. Volg elke klik, weergave en conversie.",
+        "highlight": "Bestellen met één klik"
+      },
+      "payments": {
+        "title": "Geïntegreerde Betalingen",
+        "description": "Accepteer kaartbetalingen, bankoverschrijvingen en mobiel geld. Krijg betaald voordat je verstuurt.",
+        "highlight": "10+ betaalmethoden"
+      },
+      "whatsapp": {
+        "title": "WhatsApp-First",
+        "description": "Maak van je WhatsApp een verkoopmachine. Bestellingen stromen rechtstreeks naar je chat, mooi geformatteerd.",
+        "highlight": "2B+ gebruikers bereikt"
+      }
+    },
+    "painPoints": {
+      "title": "Klinkt dit bekend?",
+      "subtitle": "We hebben waorders gebouwd om de problemen op te lossen die we tegenkwamen bij het verkopen via WhatsApp"
+    },
+    "roi": {
+      "badge": "Gemiddelde besparing voor handelaars",
+      "hoursSaved": "Bespaarde uren per week",
+      "monthlySavings": "Maandelijkse besparing",
+      "description": "Stop met het verliezen van bestellingen in de chat-chaos. Handelaars die waorders gebruiken rapporteren 3x snellere orderverwerking.",
+      "cta": "Bereken Je Besparing"
+    },
+    "industries": {
+      "title": "Gemaakt voor elk bedrijf",
+      "subtitle": "Vertrouwd door duizenden handelaars in alle industrieën"
+    },
+    "testimonials": {
+      "title": "Geliefd door handelaars wereldwijd",
+      "subtitle": "Sluit je aan bij duizenden bedrijven die al groeien met waorders"
+    },
+    "finalCta": {
+      "title": "Klaar om je WhatsApp-verkopen te vertienvoudigen?",
+      "subtitle": "Sluit je aan bij duizenden handelaars die hun WhatsApp hebben getransformeerd tot een 24/7 verkoopmachine.",
+      "button": "Gratis Beginnen met Verkopen →",
+      "note": "Voor altijd gratis voor kleine winkels. Geen creditcard nodig."
+    }
+  },
+  
+  "nav": {
+    "store": "Winkel",
+    "openStore": "Winkel Openen",
+    "changeStore": "Winkel Wisselen",
+    "createNewStore": "Nieuwe Winkel Aanmaken",
+    "management": "Beheer",
+    "summary": "Overzicht",
+    "products": "Producten",
+    "allProducts": "Alle Producten",
+    "categories": "Categorieën",
+    "discounts": "Kortingen",
+    "customers": "Klanten",
+    "chats": "Chats",
+    "inbox": "Inbox",
+    "broadcasts": "Uitzendingen",
+    "chatbot": "Chatbot",
+    "analytics": "Analyses",
+    "settings": "Instellingen",
+    "salesChannels": "Verkoopkanalen",
+    "website": "Website",
+    "storefront": "Etalage",
+    "checkout": "Afrekenen",
+    "appearance": "Uiterlijk",
+    "menu": "Menu",
+    "pages": "Pagina's",
+    "reviews": "Beoordelingen",
+    "whatsapp": "WhatsApp",
+    "instagram": "Instagram",
+    "google": "Google",
+    "pos": "Kassa",
+    "tableBooking": "Tafelreservering",
+    "upgradeToPro": "Upgraden naar Pro",
+    "upgradeDescription": "Ontgrendel eigen domeinen, geavanceerde analyses en meer.",
+    "upgradeNow": "Nu Upgraden",
+    "helpSupport": "Help & Ondersteuning"
+  },
+  
+  "dashboard": {
+    "welcome": "Welkom terug!",
+    "welcomeSubtitle": "Dit gebeurt er vandaag in je winkel.",
+    "addProduct": "+ Product Toevoegen",
+    "quickActions": "Snelle Acties",
+    "recentOrders": "Recente Bestellingen",
+    "storeActivity": "Winkelactiviteit",
+    "noOrdersYet": "Nog geen bestellingen",
+    "noOrdersDescription": "Wanneer je bestellingen ontvangt, verschijnen ze hier.",
+    "noActivityYet": "Nog geen activiteit",
+    "noActivityDescription": "Deel je winkel om bezoekers te krijgen!",
+    "gettingStarted": "Aan de Slag",
+    "stats": {
+      "totalOrders": "Totaal Bestellingen",
+      "revenue": "Omzet",
+      "customers": "Klanten",
+      "products": "Producten"
+    },
+    "tasks": {
+      "addFirstProduct": "Voeg je eerste product toe",
+      "setupDelivery": "Stel bezorgmethoden in",
+      "configurePayments": "Configureer betaalopties",
+      "shareStore": "Deel je winkel"
+    }
+  },
+  
+  "products": {
+    "title": "Producten",
+    "subtitle": "Beheer je productcatalogus",
+    "addProduct": "+ Product Toevoegen",
+    "searchProducts": "Producten zoeken...",
+    "allCategories": "Alle Categorieën",
+    "newestFirst": "Nieuwste Eerst",
+    "oldestFirst": "Oudste Eerst",
+    "priceHighToLow": "Prijs: Hoog naar Laag",
+    "priceLowToHigh": "Prijs: Laag naar Hoog",
+    "noProducts": "Nog geen producten",
+    "noProductsDescription": "Voeg je eerste product toe om te beginnen met verkopen. Je kunt producten handmatig toevoegen of importeren uit een spreadsheet.",
+    "importProducts": "Producten Importeren",
+    "proTips": "Pro Tips",
+    "tip1": "Gebruik afbeeldingen van hoge kwaliteit voor meer verkopen",
+    "tip2": "Voeg gedetailleerde beschrijvingen toe met AI-assistentie",
+    "tip3": "Stel categorieën in om klanten te helpen producten te vinden"
+  },
+  
+  "addProduct": {
+    "title": "Nieuw Product Toevoegen",
+    "subtitle": "Maak een product met AI-aangedreven meertalige beschrijvingen",
+    "languageSupport": "Ondersteunt",
+    "productName": "Productnaam",
+    "productNamePlaceholder": "bijv. Lavendelzeep",
+    "price": "Prijs",
+    "keyFeatures": "Belangrijkste Kenmerken",
+    "keyFeaturesHint": "één per regel",
+    "keyFeaturesDescription": "Voer productkenmerken in die de AI helpen betere beschrijvingen te genereren",
+    "generateAllLanguages": "Alle Talen Genereren (AI)",
+    "generatesTranslations": "Genereert EN + 4 vertalingen",
+    "enterProductNameFirst": "Voer eerst productnaam in",
+    "productDescription": "Productbeschrijving",
+    "viewEdit": "Bekijken/Bewerken",
+    "primaryLanguageNote": "Hoofdtaal (vereist). Andere vertalingen zijn optioneel.",
+    "translationNote": "vertaling. Gebruikt Engels indien leeg.",
+    "saveProduct": "Product Opslaan",
+    "savingProduct": "Product Opslaan...",
+    "backToProducts": "Terug naar Producten",
+    "goToDashboard": "Naar Dashboard",
+    "productsSavedNote": "Producten worden zichtbaar in je winkel na opslaan",
+    "descriptionsStoredNote": "Beschrijvingen opgeslagen in 5 talen",
+    "generatingEnglish": "Engels genereren...",
+    "translating": "Vertalen...",
+    "productSavedSuccess": "Product succesvol opgeslagen met {{count}} taal/talen!"
+  },
+  
+  "channels": {
+    "instagram": {
+      "title": "Instagram Shopping",
+      "subtitle": "Verbind je Instagram voor naadloze social commerce",
+      "description": "Maak van je Instagram een etalage. Tag producten in posts en stories, beheer DM's en volg conversies.",
+      "features": {
+        "shoppingTags": "Producttags in posts en stories",
+        "dmIntegration": "Orderbeheer via directe berichten",
+        "analytics": "Instagram-specifieke analyses",
+        "sync": "Automatische catalogussynchronisatie"
+      },
+      "cta": "Instagram Verbinden",
+      "comingSoon": "Instagram-integratie komt binnenkort!"
+    },
+    "google": {
+      "title": "Google Shopping",
+      "subtitle": "Word gevonden op Google Search en Shopping",
+      "description": "Lijst je producten in Google Merchant Center. Verschijn in Google Shopping-resultaten en leid verkeer naar je winkel.",
+      "features": {
+        "merchantCenter": "Google Merchant Center-synchronisatie",
+        "freeListings": "Gratis productvermeldingen",
+        "shoppingAds": "Shopping-advertentiecampagnes",
+        "analytics": "Prestatietracking"
+      },
+      "cta": "Google Verbinden",
+      "comingSoon": "Google-integratie komt binnenkort!"
+    },
+    "pos": {
+      "title": "Kassa",
+      "subtitle": "Accepteer betalingen persoonlijk",
+      "description": "Perfect voor fysieke winkels, pop-ups en markten. Accepteer kaartbetalingen face-to-face met onze mobiele POS-oplossing.",
+      "features": {
+        "mobilePayments": "Accepteer kaarten op je telefoon",
+        "inventorySync": "Realtime voorraadsynchronisatie",
+        "receipts": "Digitale bonnetjes via WhatsApp",
+        "offline": "Werkt offline"
+      },
+      "cta": "POS-Terminal Krijgen",
+      "comingSoon": "POS-functie komt binnenkort!",
+      "beta": "BETA"
+    }
+  },
+  
+  "onboarding": {
+    "step1": {
+      "title": "Wat voor soort bedrijf heb je?",
+      "subtitle": "Dit helpt ons je winkelervaring aan te passen",
+      "note": "Maak je geen zorgen, je kunt dit later wijzigen in instellingen"
+    },
+    "step2": {
+      "title": "Wat is je doel?",
+      "subtitle": "Selecteer alle die van toepassing zijn op je bedrijf",
+      "note": "We personaliseren je dashboard op basis van je doelen"
+    },
+    "step3": {
+      "title": "Kies je plan",
+      "subtitle": "Begin gratis, upgrade wanneer je wilt. Geen creditcard nodig."
+    },
+    "step4": {
+      "title": "Maak je winkel",
+      "subtitle": "Stel je winkel in binnen seconden"
+    },
+    "step11": {
+      "title": "Je bent helemaal klaar!",
+      "subtitle": "Je winkel is klaar",
+      "shareTitle": "Deel je winkel met de wereld",
+      "shareWhatsApp": "Delen op WhatsApp",
+      "goToDashboard": "Naar Dashboard →",
+      "customizeNote": "Je kunt je winkel altijd aanpassen vanuit het dashboard"
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

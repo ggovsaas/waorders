@@ -1,0 +1,279 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "back": "Volver",
+    "next": "Siguiente",
+    "continue": "Continuar",
+    "skip": "Omitir",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "viewAll": "Ver todo",
+    "learnMore": "Más información",
+    "getStarted": "Comenzar",
+    "signUp": "Registrarse",
+    "logIn": "Iniciar Sesión",
+    "logOut": "Cerrar Sesión"
+  },
+  
+  "landing": {
+    "hero": {
+      "badge": "Ahora con soporte multilingüe impulsado por IA",
+      "headline": "La Forma Más Rápida de Vender en WhatsApp",
+      "subheadline": "Convierte los chats de clientes en pedidos rastreables, multilingües y prepagados. Sin más ventas perdidas. Sin más entrada manual de datos.",
+      "ctaPrimary": "Empieza a Vender Gratis",
+      "ctaSecondary": "Ver Demo",
+      "trustNoCreditCard": "Sin tarjeta de crédito",
+      "trustFreeTrial": "14 días de prueba gratis",
+      "trustCancelAnytime": "Cancela cuando quieras"
+    },
+    "features": {
+      "title": "Todo lo que necesitas para vender más",
+      "subtitle": "Funciones potentes que convierten WhatsApp en tu canal de ventas #1",
+      "multiLanguage": {
+        "title": "Soporte Multilingüe",
+        "description": "Traduce automáticamente las descripciones de productos a 5 idiomas. Llega a clientes en todo el mundo sin contratar traductores.",
+        "highlight": "EN • ES • PT • DE • NL"
+      },
+      "orderLinks": {
+        "title": "Enlaces de Pedido Inteligentes",
+        "description": "Genera enlaces de pedido compartibles que funcionan en cualquier lugar. Rastrea cada clic, vista y conversión.",
+        "highlight": "Pedidos con un clic"
+      },
+      "payments": {
+        "title": "Pagos Integrados",
+        "description": "Acepta pagos con tarjeta, transferencias bancarias y dinero móvil. Recibe el pago antes de enviar.",
+        "highlight": "10+ métodos de pago"
+      },
+      "whatsapp": {
+        "title": "WhatsApp Primero",
+        "description": "Convierte tu WhatsApp en una máquina de ventas. Los pedidos fluyen directamente a tu chat, perfectamente formateados.",
+        "highlight": "2B+ usuarios alcanzados"
+      }
+    },
+    "painPoints": {
+      "title": "¿Te suena familiar?",
+      "subtitle": "Construimos waorders para resolver los problemas que enfrentamos al vender por WhatsApp"
+    },
+    "roi": {
+      "badge": "Ahorro promedio del comerciante",
+      "hoursSaved": "Horas ahorradas por semana",
+      "monthlySavings": "Ahorro mensual",
+      "description": "Deja de perder pedidos en el caos del chat. Los comerciantes que usan waorders reportan un procesamiento de pedidos 3 veces más rápido.",
+      "cta": "Calcula Tu Ahorro"
+    },
+    "industries": {
+      "title": "Hecho para cada negocio",
+      "subtitle": "Con la confianza de miles de comerciantes en todas las industrias"
+    },
+    "testimonials": {
+      "title": "Amado por comerciantes en todo el mundo",
+      "subtitle": "Únete a miles de negocios que ya están creciendo con waorders"
+    },
+    "finalCta": {
+      "title": "¿Listo para multiplicar por 10 tus ventas en WhatsApp?",
+      "subtitle": "Únete a miles de comerciantes que han transformado su WhatsApp en una máquina de ventas 24/7.",
+      "button": "Empieza a Vender Gratis →",
+      "note": "Gratis para siempre para tiendas pequeñas. Sin tarjeta de crédito."
+    }
+  },
+  
+  "nav": {
+    "store": "Tienda",
+    "openStore": "Abrir Tienda",
+    "changeStore": "Cambiar Tienda",
+    "createNewStore": "Crear Nueva Tienda",
+    "management": "Gestión",
+    "summary": "Resumen",
+    "products": "Productos",
+    "allProducts": "Todos los Productos",
+    "categories": "Categorías",
+    "discounts": "Descuentos",
+    "customers": "Clientes",
+    "chats": "Chats",
+    "inbox": "Bandeja de Entrada",
+    "broadcasts": "Difusiones",
+    "chatbot": "Chatbot",
+    "analytics": "Analíticas",
+    "settings": "Configuración",
+    "salesChannels": "Canales de Venta",
+    "website": "Sitio Web",
+    "storefront": "Escaparate",
+    "checkout": "Pago",
+    "appearance": "Apariencia",
+    "menu": "Menú",
+    "pages": "Páginas",
+    "reviews": "Reseñas",
+    "whatsapp": "WhatsApp",
+    "instagram": "Instagram",
+    "google": "Google",
+    "pos": "Punto de Venta",
+    "tableBooking": "Reserva de Mesa",
+    "upgradeToPro": "Actualizar a Pro",
+    "upgradeDescription": "Desbloquea dominios personalizados, analíticas avanzadas y más.",
+    "upgradeNow": "Actualizar Ahora",
+    "helpSupport": "Ayuda y Soporte"
+  },
+  
+  "dashboard": {
+    "welcome": "¡Bienvenido de nuevo!",
+    "welcomeSubtitle": "Esto es lo que está pasando con tu tienda hoy.",
+    "addProduct": "+ Agregar Producto",
+    "quickActions": "Acciones Rápidas",
+    "recentOrders": "Pedidos Recientes",
+    "storeActivity": "Actividad de la Tienda",
+    "noOrdersYet": "Aún no hay pedidos",
+    "noOrdersDescription": "Cuando recibas pedidos, aparecerán aquí.",
+    "noActivityYet": "Aún no hay actividad",
+    "noActivityDescription": "¡Comparte tu tienda para empezar a recibir visitantes!",
+    "gettingStarted": "Primeros Pasos",
+    "stats": {
+      "totalOrders": "Total de Pedidos",
+      "revenue": "Ingresos",
+      "customers": "Clientes",
+      "products": "Productos"
+    },
+    "tasks": {
+      "addFirstProduct": "Agrega tu primer producto",
+      "setupDelivery": "Configura métodos de entrega",
+      "configurePayments": "Configura opciones de pago",
+      "shareStore": "Comparte tu tienda"
+    }
+  },
+  
+  "products": {
+    "title": "Productos",
+    "subtitle": "Gestiona tu catálogo de productos",
+    "addProduct": "+ Agregar Producto",
+    "searchProducts": "Buscar productos...",
+    "allCategories": "Todas las Categorías",
+    "newestFirst": "Más Recientes",
+    "oldestFirst": "Más Antiguos",
+    "priceHighToLow": "Precio: Mayor a Menor",
+    "priceLowToHigh": "Precio: Menor a Mayor",
+    "noProducts": "Aún no hay productos",
+    "noProductsDescription": "Agrega tu primer producto para empezar a vender. Puedes agregar productos manualmente o importarlos desde una hoja de cálculo.",
+    "importProducts": "Importar Productos",
+    "proTips": "Consejos Pro",
+    "tip1": "Usa imágenes de alta calidad para aumentar las ventas",
+    "tip2": "Agrega descripciones detalladas con asistencia de IA",
+    "tip3": "Configura categorías para ayudar a los clientes a encontrar productos"
+  },
+  
+  "addProduct": {
+    "title": "Agregar Nuevo Producto",
+    "subtitle": "Crea un producto con descripciones multilingües impulsadas por IA",
+    "languageSupport": "Soporta",
+    "productName": "Nombre del Producto",
+    "productNamePlaceholder": "ej., Jabón de Lavanda",
+    "price": "Precio",
+    "keyFeatures": "Características Clave",
+    "keyFeaturesHint": "una por línea",
+    "keyFeaturesDescription": "Ingresa características del producto que ayudarán a la IA a generar mejores descripciones",
+    "generateAllLanguages": "Generar Todos los Idiomas (IA)",
+    "generatesTranslations": "Genera EN + 4 traducciones",
+    "enterProductNameFirst": "Ingresa el nombre del producto primero",
+    "productDescription": "Descripción del Producto",
+    "viewEdit": "Ver/Editar",
+    "primaryLanguageNote": "Idioma principal (requerido). Otras traducciones son opcionales.",
+    "translationNote": "traducción. Usará inglés si se deja vacío.",
+    "saveProduct": "Guardar Producto",
+    "savingProduct": "Guardando Producto...",
+    "backToProducts": "Volver a Productos",
+    "goToDashboard": "Ir al Panel",
+    "productsSavedNote": "Los productos serán visibles en tu tienda una vez guardados",
+    "descriptionsStoredNote": "Descripciones guardadas en 5 idiomas",
+    "generatingEnglish": "Generando inglés...",
+    "translating": "Traduciendo...",
+    "productSavedSuccess": "¡Producto guardado exitosamente con {{count}} idioma(s)!"
+  },
+  
+  "channels": {
+    "instagram": {
+      "title": "Instagram Shopping",
+      "subtitle": "Conecta tu Instagram para comercio social fluido",
+      "description": "Convierte tu Instagram en un escaparate. Etiqueta productos en publicaciones e historias, gestiona DMs y rastrea conversiones.",
+      "features": {
+        "shoppingTags": "Etiquetas de producto en publicaciones e historias",
+        "dmIntegration": "Gestión de pedidos por mensaje directo",
+        "analytics": "Analíticas específicas de Instagram",
+        "sync": "Sincronización automática del catálogo"
+      },
+      "cta": "Conectar Instagram",
+      "comingSoon": "¡Integración de Instagram próximamente!"
+    },
+    "google": {
+      "title": "Google Shopping",
+      "subtitle": "Aparece en Google Search y Shopping",
+      "description": "Lista tus productos en Google Merchant Center. Aparece en los resultados de Google Shopping y dirige tráfico a tu tienda.",
+      "features": {
+        "merchantCenter": "Sincronización con Google Merchant Center",
+        "freeListings": "Listados de productos gratuitos",
+        "shoppingAds": "Campañas de anuncios de Shopping",
+        "analytics": "Seguimiento de rendimiento"
+      },
+      "cta": "Conectar Google",
+      "comingSoon": "¡Integración de Google próximamente!"
+    },
+    "pos": {
+      "title": "Punto de Venta",
+      "subtitle": "Acepta pagos en persona",
+      "description": "Perfecto para tiendas físicas, pop-ups y mercados. Acepta pagos con tarjeta cara a cara con nuestra solución POS móvil.",
+      "features": {
+        "mobilePayments": "Acepta tarjetas en tu teléfono",
+        "inventorySync": "Sincronización de inventario en tiempo real",
+        "receipts": "Recibos digitales vía WhatsApp",
+        "offline": "Funciona sin conexión"
+      },
+      "cta": "Obtener Terminal POS",
+      "comingSoon": "¡Función POS próximamente!",
+      "beta": "BETA"
+    }
+  },
+  
+  "onboarding": {
+    "step1": {
+      "title": "¿Qué tipo de negocio tienes?",
+      "subtitle": "Esto nos ayuda a personalizar tu experiencia de tienda",
+      "note": "No te preocupes, puedes cambiar esto después en configuración"
+    },
+    "step2": {
+      "title": "¿Cuál es tu objetivo?",
+      "subtitle": "Selecciona todos los que apliquen a tu negocio",
+      "note": "Personalizaremos tu panel basado en tus objetivos"
+    },
+    "step3": {
+      "title": "Elige tu plan",
+      "subtitle": "Empieza gratis, actualiza cuando quieras. Sin tarjeta de crédito."
+    },
+    "step4": {
+      "title": "Crea tu tienda",
+      "subtitle": "Configura tu tienda en segundos"
+    },
+    "step11": {
+      "title": "¡Todo listo!",
+      "subtitle": "Tu tienda está lista",
+      "shareTitle": "Comparte tu tienda con el mundo",
+      "shareWhatsApp": "Compartir en WhatsApp",
+      "goToDashboard": "Ir al Panel →",
+      "customizeNote": "Siempre puedes personalizar tu tienda desde el panel"
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

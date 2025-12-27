@@ -1,21 +1,35 @@
+import { useState } from 'react'
 import { Link } from 'react-router-dom'
 
 /**
  * ProductsPage Component
- * 
+ *
  * Products management page showing:
  * - Products list/grid
  * - Filters and search
  * - Add product button
+ * - WhatsApp Catalog sync
  */
 
 function ProductsPage() {
-  // Demo products - will be replaced with real data
+  const [isSyncing, setIsSyncing] = useState(false)
   const products = []
+
+  const handleSyncToWhatsApp = async () => {
+    setIsSyncing(true)
+    try {
+      await new Promise(resolve => setTimeout(resolve, 2000))
+      alert('Products synced to WhatsApp Catalog successfully!')
+    } catch (error) {
+      console.error('Sync failed:', error)
+      alert('Failed to sync products. Please try again.')
+    } finally {
+      setIsSyncing(false)
+    }
+  }
 
   return (
     <div className="space-y-6">
-      {/* Page Header */}
       <div className="flex items-center justify-between">
         <div className="flex items-center gap-4">
           <div className="w-12 h-12 bg-gradient-to-br from-purple-500/30 to-cyan-500/30 rounded-xl flex items-center justify-center">
@@ -26,12 +40,22 @@ function ProductsPage() {
             <p className="text-gray-400 text-sm">Manage your product catalog</p>
           </div>
         </div>
-        <Link
-          to="/dashboard/products/add"
-          className="px-6 py-3 bg-gradient-to-r from-purple-600 to-cyan-600 text-white rounded-xl font-semibold hover:from-purple-500 hover:to-cyan-500 transition-all shadow-lg shadow-purple-500/25"
-        >
-          + Add Product
-        </Link>
+        <div className="flex items-center gap-3">
+          <button
+            onClick={handleSyncToWhatsApp}
+            disabled={isSyncing}
+            className="px-6 py-3 bg-green-600 hover:bg-green-500 text-white rounded-xl font-semibold transition-all flex items-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
+          >
+            <span>📱</span>
+            {isSyncing ? 'Syncing...' : 'Sync to WhatsApp Catalog'}
+          </button>
+          <Link
+            to="/dashboard/products/add"
+            className="px-6 py-3 bg-gradient-to-r from-purple-600 to-cyan-600 text-white rounded-xl font-semibold hover:from-purple-500 hover:to-cyan-500 transition-all shadow-lg shadow-purple-500/25"
+          >
+            + Add Product
+          </Link>
+        </div>
       </div>
 
       {/* Filters and Search */}

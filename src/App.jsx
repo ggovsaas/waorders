@@ -29,6 +29,8 @@ import ReviewsPage from './pages/dashboard/website/ReviewsPage'
 import AIDataModelBuilder from './pages/dashboard/AIDataModelBuilder'
 import InboxPage from './pages/dashboard/InboxPage'
 import WhatsAppManagement from './pages/dashboard/WhatsAppManagement'
+import WhatsAppSetup from './pages/dashboard/WhatsAppSetup'
+import AutomationPage from './pages/dashboard/AutomationPage'
 
 /**
  * LanguageRouter Component
@@ -152,8 +154,14 @@ function LocalizedRoutes() {
 
         {/* Dashboard Routes with Layout */}
         <Route path="/dashboard" element={<DashboardLayout />}>
-          {/* Dashboard Home/Summary */}
-          <Route index element={<DashboardHome />} />
+          {/* Dashboard default redirects to Inbox */}
+          <Route index element={<Navigate to="inbox" replace />} />
+
+          {/* Inbox (Primary Landing Page) */}
+          <Route path="inbox" element={<InboxPage />} />
+
+          {/* Home/Summary */}
+          <Route path="home" element={<DashboardHome />} />
 
           {/* Orders */}
           <Route path="orders" element={<OrdersPage />} />
@@ -167,15 +175,14 @@ function LocalizedRoutes() {
           {/* Customers */}
           <Route path="customers" element={<PlaceholderPage title="Customers" icon="👥" />} />
 
-          {/* Inbox (Centralized) */}
-          <Route path="inbox" element={<InboxPage />} />
-          {/* Forward legacy 'chats' route to inbox for now, or keep as sub-menu if desired. 
-              The prompt asked to move InboxPage to top level /dashboard/inbox. 
-          */}
-          <Route path="chats" element={<Navigate to="inbox" replace />} />
-          <Route path="chats/inbox" element={<Navigate to="../../inbox" replace />} />
+          {/* Legacy chat routes redirect to inbox */}
+          <Route path="chats" element={<Navigate to="/dashboard/inbox" replace />} />
+          <Route path="chats/inbox" element={<Navigate to="/dashboard/inbox" replace />} />
           <Route path="chats/broadcasts" element={<PlaceholderPage title="Broadcasts" icon="📢" />} />
           <Route path="chats/chatbot" element={<PlaceholderPage title="Chatbot" icon="🤖" badge="PRO" />} />
+
+          {/* Automation */}
+          <Route path="automation" element={<AutomationPage />} />
 
           {/* Analytics */}
           <Route path="analytics" element={<PlaceholderPage title="Analytics" icon="📈" />} />
@@ -197,6 +204,7 @@ function LocalizedRoutes() {
 
           {/* Sales Channels */}
           <Route path="whatsapp" element={<WhatsAppManagement />} />
+          <Route path="whatsapp-setup" element={<WhatsAppSetup />} />
           <Route path="instagram" element={<InstagramChannelPage />} />
           <Route path="google" element={<GoogleChannelPage />} />
           <Route path="pos" element={<POSChannelPage />} />
